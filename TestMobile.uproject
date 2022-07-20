@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{03ED39FF-4EDE-481D-8D3B-CC80DC62A5C3}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestMobile",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
